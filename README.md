@@ -2,10 +2,16 @@
 
 Kramulon is an ERC-20 token based cryptocurrency that allows users to invest in Real Estate that the Kramulon company owns. The mission of the cryptocurrency is to allow owners of our crypto to trade Kramulon directly for real estate. At least that was the initial mission and still is the main mission. A side mission of ours is also to broker the deals of tangible assets for all cryptocurrencies not just Kramulon. 
 
+The Team
+
+As of the ideation phase the sole owner/team member is Tariq Booker. A young real estate agent in the state of Georgia who owns the skate brand SK8-T-L. Has experience in taking ideas to market through business formation and trademarking names. Has sold a number of branded skateboards to skateshops all around the metro Atlanta area. Now in school for his real estate broker's license to become a real estate broker in the state of Georgia as well.
+
 I have decided to include an article on what is an ERC-20 token at the end of this white paper.
+
 What Is ERC-20 and What Does It Mean for Ethereum?
 
 By NATHAN REIFF Updated September 05, 2020
+
 The popular cryptocurrency and blockchain system Ethereum is based on the use of tokens, which can be bought, sold, or traded. Ethereum was launched in 2015, and since then it has become one of the driving forces behind the popularity of cryptocurrency. In the Ethereum system, tokens represent a diverse range of digital assets, such as vouchers, IOUs, or even real-world, tangible objects. Essentially, Ethereum tokens are smart contracts that make use of the Ethereum blockchain.
 
 
