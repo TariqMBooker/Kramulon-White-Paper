@@ -1,6 +1,6 @@
 # Kramulon-White-Paper
 
-Kramulon is an ERC-20 token based cryptocurrency that allows users to invest in Real Estate that the Kramulon company owns. The mission of the cryptocurrency is to allow owners of our crypto to trade Kramulon directly for real estate. At least that was the initial mission and still is the main mission. A side mission of ours is also to broker the deals of tangible assets for all cryptocurrencies not just Kramulon. 
+Kramulon is an ERC-20 token based cryptocurrency that allows users to invest in Real Estate that the Kramulon company owns. The mission of the cryptocurrency is to allow owners of our crypto to trade Kramulon directly for real estate. That was the initial mission and still is the main mission. A side mission of ours is also to broker the deals of tangible assets for all cryptocurrencies not just Kramulon. We have also delved into the idea of issuing the certificate of ownership of fractional real estate as a non-fungible token(NFT).
 
 The Team
 
