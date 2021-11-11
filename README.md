@@ -6,6 +6,19 @@ The Team
 
 As of the ideation phase the sole owner/team member is Tariq Booker. A young real estate agent in the state of Georgia who owns the skate brand SK8-T-L. Has experience in taking ideas to market through business formation and trademarking names. Has sold a number of branded skateboards to skateshops all around the metro Atlanta area. Now in school for his real estate broker's license to become a real estate broker in the state of Georgia as well.
 
+Kramulon is the future of real estate allowing users to invest in real estate with cryptocurrency. Hi my name is Tariq Booker and I am the founder of Kramulon. I am a skateboarder, and I own SK8-T-L which has previously done sales in retail skate shops in Atlanta. I am also a licensed real estate, and have been one for the last three years. I have been licensed since the age of 19, with my first home sold at 20. I am most recently a cryptocurrency enthusiast buying my first dogecoin in 2018. 
+
+Kramulon is a real estate as a service (REAAS) company that addresses the issue of the difficulty of property ownership. Our solution is a cryptocurrency that allows for fractional shares of rental properties, or entire properties given a sufficient budget. This is possible through a certificate of ownership distributed upon the purchase of our crypto. This certificate can double as a non-fungible token (NFT). Our direct competitor propy is already doing this so it is possible. What makes us different is that we offer a cryptocurrency that appreciates in value. We are looking to raise $100,000 to purchase our first property(ies). Properties purchased will be sold back to users for crypto. No revenue other than our token has been generated. The token is already minted and will hit multiple exchanges on May 10th, 2022. These exchanges include Coinbase, Uniswap, and Pancakeswap. Our team members, including myself, were required to read “Launch an ICO & Token Crowdsale”, “How to Launch an ICO”, and “ICO Tutorial...”. Kramulon is also known as Kramulon Capital LLC, cryptoforhomes.io, cryptoforproperty.io, cryptoforhouses.io and cryptoforhomes.com. 
+
+The homes we purchase will not yet be purchased with crypto until title companies start to recognize crypto as consideration for a home/property. The markets we wish to invest in are Alabama, and Georgia. Our target market is first time home buyers, crypto enthusiasts, real estate investors, and college students. 
+
+Kramulon is an ERC-20 token on the Ethereum blockchain, and is available on the ethereum mainnet.
+
+Real estate is a 10 trillion dollar market and crypto is a 1.6 billion dollar market. With that being said you can see an average of a 10% return on your money on the real estate side. On the crypto side when demand is higher than supply you can see returns as high as 1200%
+
+With that being said we hope we have excited you into seeing kramulon rise to the moon.
+
+
 I have decided to include an article on what is an ERC-20 token at the end of this white paper.
 
 What Is ERC-20 and What Does It Mean for Ethereum?
